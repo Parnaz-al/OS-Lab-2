@@ -11,20 +11,20 @@ while(counter):
     if(comp1==comp2):
         if (user!=comp1):
             print("you lose")
-            print("compueter1:",comp1,"computer2:",comp2)
+            
         
         else:
             print("no one lose")
-            print("compueter1:",comp1,"computer2:",comp2)
+            
         
     else:
         if(user==comp1):
             print("compurer2 lose")
-            print("compueter1:",comp1,"computer2:",comp2)
+            
         
         else:    
             print("computer1 lose")
-            print("compueter1:",comp1,"computer2:",comp2)
+            
         
             
 
